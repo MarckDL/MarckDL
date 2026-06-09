@@ -96,10 +96,10 @@ Proyectos personales relacionados con videojuegos, sistemas interactivos y explo
 ## Actualmente aprendiendo
 
 ```text
-Arquitectura Empresarial  ███████░░░
-Ciencia de Datos          ██████░░░░
-Next.js y React           ████████░░
-Experiencias Interactivas █████░░░░░
+▰▰▰▰▰▰▰▱▱▱ Arquitectura Empresarial
+▰▰▰▰▰▰▱▱▱▱ Ciencia de Datos
+▰▰▰▰▰▱▱▱▱▱ Desarrollo de Videojuegos
+▰▰▰▰▰▰▰▰▱▱ Next.js y React
 ```
 
 ---
