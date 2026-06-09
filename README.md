@@ -2,30 +2,30 @@
 
 <img src="./banner.png" alt="Banner de Marck" width="100%" />
 
-# 👋 Hola, soy Marck De La Cruz
+# Marck De La Cruz
 
-### Full Stack Developer • Data Science Student
+**Full Stack Developer · Data Science Student**
 
-Construyendo soluciones reales mientras aprendo algo nuevo cada día.
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Data+Science+Student;Python+Enthusiast;Building+AGERU;Future+Software+Engineer" />
+Me interesa crear software que resuelva problemas reales, desde sistemas empresariales hasta experiencias interactivas.
 
 </div>
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
-- 🎓 Estudiante de Ciencia de Datos.
-- 💻 Desarrollador Full Stack.
-- 🏦 Construyendo **AGERU**, una plataforma financiera empresarial.
-- 🐍 Fan del desarrollo con Python y Programación Orientada a Objetos.
-- 🎮 Explorando el desarrollo de videojuegos y experiencias interactivas.
-- 📚 Siempre aprendiendo nuevas tecnologías.
+Soy estudiante de Ciencia de Datos y desarrollador Full Stack. Disfruto aprender construyendo proyectos que mezclen lógica, diseño y resolución de problemas.
+
+Actualmente estoy enfocado en:
+
+* Desarrollo de sistemas empresariales.
+* Arquitectura y diseño de software.
+* Ciencia de datos y análisis.
+* Desarrollo de experiencias interactivas.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## Tecnologías
 
 <div align="center">
 
@@ -35,47 +35,53 @@ Construyendo soluciones reales mientras aprendo algo nuevo cada día.
 
 ---
 
-## 📌 Proyectos destacados
+## Proyectos destacados
 
-### 💳 AGERU
-> Plataforma financiera empresarial orientada a la gestión eficiente y segura de operaciones.
+### AGERU
 
-**Tecnologías:**
-- Angular
-- Arquitectura Empresarial
-- SQL Server
-- APIs REST
+Plataforma financiera empresarial orientada a la gestión eficiente y segura de operaciones.
 
----
+**Tecnologías utilizadas:**
 
-### 🚗 Sistema de Reserva y Alquiler de Autos
-> Aplicación desarrollada en Python aplicando Programación Orientada a Objetos.
-
-**Características:**
-- Gestión de clientes
-- Reserva de vehículos
-- Alquileres
-- Reportes
+* Angular
+* SQL Server
+* APIs REST
+* Arquitectura Empresarial
 
 ---
 
-### 🖥️ COMPUTEC
-> Sitio web para una tienda de computadoras.
+### Sistema de Reserva y Alquiler de Autos
+
+Aplicación desarrollada en Python aplicando Programación Orientada a Objetos.
 
 **Incluye:**
-- Equipos gamer
-- Equipos para oficina
-- Laptops
-- Accesorios
+
+* Gestión de clientes
+* Reservas y alquileres
+* Administración de vehículos
+* Reportes
 
 ---
 
-### 🎮 Proyectos personales
-> Experimentando con el desarrollo de videojuegos, sistemas interactivos y novelas visuales.
+### COMPUTEC
+
+Sitio web para una tienda de computadoras.
+
+**Características:**
+
+* Catálogo de productos
+* Equipos gamer y de oficina
+* Laptops y accesorios
 
 ---
 
-## 📊 Estadísticas de GitHub
+### Experiencias interactivas
+
+Proyectos personales relacionados con videojuegos, sistemas interactivos y exploración de nuevas formas de contar historias mediante software.
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
@@ -87,53 +93,29 @@ Construyendo soluciones reales mientras aprendo algo nuevo cada día.
 
 ---
 
-## 🔥 Racha de contribuciones
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=MarckDL&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🌱 Actualmente aprendiendo
+## Actualmente aprendiendo
 
 ```text
-▰▰▰▰▰▰▰▱▱▱ Arquitectura Empresarial
-▰▰▰▰▰▰▱▱▱▱ Ciencia de Datos
-▰▰▰▰▰▱▱▱▱▱ Desarrollo de Videojuegos
-▰▰▰▰▰▰▰▰▱▱ Next.js y React
+Arquitectura Empresarial  ███████░░░
+Ciencia de Datos          ██████░░░░
+Next.js y React           ████████░░
+Experiencias Interactivas █████░░░░░
 ```
 
 ---
 
-## 🗺️ Mi camino
+## Contacto
 
-```text
-2024 → Desarrollo Web
-2025 → Python y Sistemas Empresariales
-2026 → Arquitectura Empresarial + Ciencia de Datos
-2027 → Objetivo: Ingeniero de Software especializado en sistemas escalables
-```
+📧 [marckdelacruzh@gmail.com](mailto:marckdelacruzh@gmail.com)
 
----
+🐙 GitHub: https://github.com/MarckDL
 
-## 📫 Contacto
-
-📧 **marckdelacruzh@gmail.com**
-
-🐙 GitHub:
-https://github.com/MarckDL
-
-💼 LinkedIn: https://linkedin.com/in/tuusuario
+💼 LinkedIn: Próximamente
 
 ---
 
 <div align="center">
 
-### ✨ "No se trata solo de escribir código, sino de construir soluciones que importen."
-
-Gracias por visitar mi perfil 🚀
+*"Learning by building."*
 
 </div>
