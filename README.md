@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./banner.png" alt="Banner de Marck" width="100%" />
+
 # 👋 Hola, soy Marck De La Cruz
 
 ### Full Stack Developer • Data Science Student
@@ -121,8 +123,10 @@ Construyendo soluciones reales mientras aprendo algo nuevo cada día.
 
 📧 **marckdelacruzh@gmail.com**
 
-💼 GitHub:
+🐙 GitHub:
 https://github.com/MarckDL
+
+💼 LinkedIn: https://linkedin.com/in/tuusuario
 
 ---
 
